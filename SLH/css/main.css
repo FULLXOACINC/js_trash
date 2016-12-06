@@ -1,0 +1,31 @@
+body{
+    background: -webkit-gradient(linear, left top, left bottom, from(#0B6C8E), to(#8FC97E));
+    color: #1D2E44;
+}
+#cool,#j,#g,#canvas{
+    /*background: url(http://karta24.by/img/maps/minsk_map_03.jpg);*/
+    width: 1000px;
+    height: 600px;
+    border: 1px solid cadetblue;
+}
+#slider{
+    position: relative;
+    width: 1000px;
+    border: 1px solid white;
+    background-color: #0B6C8E;
+
+}
+#wind,#time{
+    color: white;
+    border: 1px solid white;
+    background-color: #0B6C8E;
+}
+#right{
+    position: relative;
+    left: 0px;
+    width: 50%;
+    height: 400px;
+}
+h1{
+    color: #8FC97E;
+}
